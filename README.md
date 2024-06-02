@@ -1,0 +1,1 @@
+Environment setup: need Jlink version 7.88 for successful flash; the rest of the environment conforms with https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/lessons/lesson-1-nrf-connect-sdk-introduction/
