@@ -1,3 +1,6 @@
 [submodule "ncs_fund"]
 	path = ncs_fund
 	url = https://github.com/NordicDeveloperAcademy/ncs-fund.git
+[submodule "ncs-fund"]
+	path = ncs-fund
+	url = https://github.com/NordicDeveloperAcademy/ncs-fund.git
